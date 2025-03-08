@@ -1,0 +1,18 @@
+[
+  {
+    "IncorrectQuery": "SELECT * FROM campaigns",
+    "CorrectQuery": "SELECT * FROM campaigns WHERE campaign_status = 'active';\n\nThe original query selects all records from the campaigns table without any conditions. The corrected query selects all records from the campaigns table where the campaign_status column is equal to 'active'. This assumes that you are interested in only the active campaigns. If you want to see all campaigns regardless of their status, then you can simply use the original query."
+  },
+  {
+    "IncorrectQuery": "SELECT * FROM campaigns",
+    "CorrectQuery": "SELECT * FROM campaigns WHERE campaign_status = 'active';\n\nThe original query selects all records from the campaigns table without any conditions. The corrected query selects all records from the campaigns table where the campaign_status column is equal to 'active'. This assumes that you are interested in only the active campaigns. If you want to see all campaigns regardless of their status, then you can simply use the original query."
+  },
+  {
+    "IncorrectQuery": "SELECT * FROM campaigns",
+    "CorrectQuery": "SELECT * FROM campaigns WHERE campaign_status = 'active';\n\nThe original query selects all records from the campaigns table without any conditions. The corrected query selects all records from the campaigns table where the campaign_status column is equal to 'active'. This assumes that you are interested in only the active campaigns. If you want to see all campaigns regardless of their status, then you can simply use the original query."
+  },
+  {
+    "IncorrectQuery": "SELECT * FROM campaigns",
+    "CorrectQuery": "SELECT * FROM campaigns WHERE campaign_status = 'active';\n\nThe original query selects all records from the campaigns table without any conditions. The corrected query selects all records from the campaigns table where the campaign_status column is equal to 'active'. This assumes that you are interested in only the active campaigns. If you want to see all campaigns regardless of their status, then you can simply use the original query."
+  }
+]
